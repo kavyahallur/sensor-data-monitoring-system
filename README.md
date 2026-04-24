@@ -24,9 +24,14 @@ This project simulates sensor data and visualizes it using Python. It demonstrat
 4. Visualize temperature and humidity trends
 5. Print motion detection summary
 
+## Sample Output
+![Sensor Graph](graph.png)
+
 ## How to Run
 
 Install dependencies:
+
+
 
 ```bash
 pip install -r requirements.txt
